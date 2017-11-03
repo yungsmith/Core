@@ -1,0 +1,17 @@
+author: yungSMITH
+name: Core
+main: me.smith.core.Core
+version: 1.0
+commands:
+  vanish:
+  info:
+  list:
+  tp:
+  feed:
+  heal:
+  core:
+  sc:
+  cc:
+  ci:
+  ping:
+  ss:
